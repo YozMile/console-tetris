@@ -1,0 +1,5 @@
+/home/jmilewsk/Projekty/coding/csharp/Tetris/bin/Release/net9.0/publish/Tetris
+/home/jmilewsk/Projekty/coding/csharp/Tetris/bin/Release/net9.0/publish/Tetris.dll
+/home/jmilewsk/Projekty/coding/csharp/Tetris/bin/Release/net9.0/publish/Tetris.deps.json
+/home/jmilewsk/Projekty/coding/csharp/Tetris/bin/Release/net9.0/publish/Tetris.runtimeconfig.json
+/home/jmilewsk/Projekty/coding/csharp/Tetris/bin/Release/net9.0/publish/Tetris.pdb

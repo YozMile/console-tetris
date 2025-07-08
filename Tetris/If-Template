@@ -1,0 +1,118 @@
+if (p.Seed[p.Index] == 'T')
+        {
+            if (p.Rot == 1)
+            {
+
+            }
+            else if (p.Rot == 2)
+            {
+
+            }
+            else if (p.Rot == 3)
+            {
+
+            }
+            else if (p.Rot == 4)
+            {
+
+            }
+        }
+        else if (p.Seed[p.Index] == 'O')
+        {
+            
+        }
+        else if (p.Seed[p.Index] == 'I')
+        {
+            if (p.Rot == 1)
+            {
+
+            }
+            else if (p.Rot == 2)
+            {
+                
+            }
+            else if (p.Rot == 3)
+            {
+                
+            }
+            else if (p.Rot == 4)
+            {
+
+            }
+        }
+        else if (p.Seed[p.Index] == 'S')
+        {
+            if (p.Rot == 1)
+            {
+                
+            }
+            else if (p.Rot == 2)
+            {
+                
+            }
+            else if (p.Rot == 3)
+            {
+                
+            }
+            else if (p.Rot == 4)
+            {
+                
+            }
+        }
+        else if (p.Seed[p.Index] == 'Z')
+        {
+            if (p.Rot == 1)
+            {
+                
+            }
+            else if (p.Rot == 2)
+            {
+                
+            }
+            else if (p.Rot == 3)
+            {
+                
+            }
+            else if (p.Rot == 4)
+            {
+                
+            }
+        }
+        else if (p.Seed[p.Index] == 'J')
+        {
+            if (p.Rot == 1)
+            {
+                
+            }
+            else if (p.Rot == 2)
+            {
+                
+            }
+            else if (p.Rot == 3)
+            {
+                
+            }
+            else if (p.Rot == 4)
+            {
+                
+            }
+        }
+        else if (p.Seed[p.Index] == 'L')
+        {
+            if (p.Rot == 1)
+            {
+                
+            }
+            else if (p.Rot == 2)
+            {
+                
+            }
+            else if (p.Rot == 3)
+            {
+                
+            }
+            else if (p.Rot == 4)
+            {
+                
+            }
+        }
